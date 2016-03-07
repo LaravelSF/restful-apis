@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/restful-apis":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/restful-apis","hostpath":"/Users/ron/Projects/PHP/restful-apis","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ron/Projects/PHP/restful-apis","disabled":false}}}
